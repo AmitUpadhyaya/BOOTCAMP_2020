@@ -1,0 +1,3 @@
+Learn the concepts of Branching and Merging and create a doc on it.
+
+-> In a version control when there is any change that needs to be implement on source code, first the duplication of this source code is done then that modification can be applied to it, this is called branching. Once the coder modify and test all the require segments in this branch of code, this branch is later integrated with parent branch and this called merging. 
